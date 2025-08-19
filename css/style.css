@@ -28,7 +28,6 @@
   color: white;
   font-size: 16px;
   padding: 8px 0;
-  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -38,7 +37,6 @@
 .navbar {
   padding-top: 0px;
   height: 90px;
-  position: fixed;
   top: 40px;
   left: 0;
   width: 100%;
@@ -712,4 +710,5 @@ footer {
     width: 100%;
     margin-top: 20px;
   }
+
 }
